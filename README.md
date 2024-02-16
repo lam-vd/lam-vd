@@ -18,9 +18,8 @@
 
 ### :man_technologist: About me
 <ul>
-  <li>:telescope: I'm a Backend developer from Vietnam.</li>
+  <li>:telescope: I'm a Backend developer from VietNam.</li>
   <li>:boom: My primary and all of my experiences focus on Ruby language, Rails framework.</li>
-  <li>:dizzy: I have had the luck to work on many projects with different cultures, business models, and sizes such as *education, e-commerce, and financial*.</li>
 </ul>
 
 
@@ -49,6 +48,6 @@
 
 ### :fire: My Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vu%20Duc%20Lam&theme=highcontrast)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lam-vd&theme=dark)
 
 ---
